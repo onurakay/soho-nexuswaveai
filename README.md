@@ -15,15 +15,17 @@ Unlike the [Campus Network project](https://github.com/onurakay/oau-campus-netwo
 - **VLAN Segmentation** (Staff, Guest, IoT, Servers, VoIP, Management, Blackhole)
 - **Inter-VLAN Routing with L3 Switch (OFFICE-CORE) 
 - **Web, DHCP, NTP, SYSLOG, TFTP servers in Server VLAN (vlan40)**
- - ![image](https://github.com/user-attachments/assets/1b737c43-283d-4b94-8bb3-689986afa25e)
+  - ![image](https://github.com/user-attachments/assets/1b737c43-283d-4b94-8bb3-689986afa25e)
 - **Port Security, BPDU Guard, Blackhole VLAN (vlan333) etc. measures and ACLs were used to ensure LAN security and compliance with ISO 27001 Information Security Management System standards. ** 
 - **Management access via SSH only (via MGMT VLAN (vlan99))** 
 - **NAT + Static Port Forwarding** (for web server) 
 - **OSPF**, for routing between routers
 - **Wi-Fi infrastructure** configured via web interface via Cisco WLC 2504 and integrated into VLANs with separate SSIDs.
+  - ![image](https://github.com/user-attachments/assets/92991a16-6e6e-4540-acf5-7eb6220a3c1d)
 - Guest Wi-Fi & BYOD VLANs**, fully isolated with ACL 
 - **Allow access to servers and critical systems only from specific VLANs** 
-- **Blackhole VLAN (333)** - for disabled ports
+- Necessary modules were installed on the devices.
+  - 
 
 ## Network Topology
 
