@@ -4,6 +4,10 @@
 
 This project is a SoHo network simulation representing the office network infrastructure of **NexusWave AI Labs**, an artificial intelligence startup based at **OAU**.
 
+![image](https://github.com/user-attachments/assets/839c2fa9-c521-4eea-979b-41bbb427a2f7)
+
+![image](https://github.com/user-attachments/assets/e799d939-6d15-465c-a988-d8633c74c60f)
+
 ## Key Features
 
 Unlike the [Campus Network project](https://github.com/onurakay/oau-campus-network) I worked on before, this project allowed me to dig deeper into the details as it is a smaller and focused office network.
