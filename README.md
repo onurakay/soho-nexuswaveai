@@ -1,1 +1,2 @@
-# soho-nexuswaveai
+NexusWave AI - SoHo Network Design
+
