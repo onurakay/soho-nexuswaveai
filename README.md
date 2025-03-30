@@ -95,7 +95,7 @@ service password-encryption
 <img src="https://github.com/user-attachments/assets/92991a16-6e6e-4540-acf5-7eb6220a3c1d" width="600">
 
 
-#### **Note**: Due to limitations in Packet Tracer regarding wireless distance calculations, all wireless connecting to random APs. Here is how they work properly  
+#### **Note**: Due to limitations in Packet Tracer regarding wireless distance calculations, all wireless connecting to random APs. Here is how they work properly:
 > ![image](https://github.com/user-attachments/assets/455e9c01-154f-42cd-9465-f1c25915b67b)  
 > ![image](https://github.com/user-attachments/assets/57c7865b-3744-4639-8781-f1046ecb8aab)
 
