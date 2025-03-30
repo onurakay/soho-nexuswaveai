@@ -113,7 +113,3 @@ Necessary modules were installed on the network devices.
 ![image](https://github.com/user-attachments/assets/c5f4d3af-65cb-44cc-b017-16eaae5d86ed)
 ![image](https://github.com/user-attachments/assets/32ec5a6a-858e-45bc-98a2-a0fd8cf67e8e)
 ![image](https://github.com/user-attachments/assets/c49fed98-82cf-4649-a98f-52a8e79106f7)
-
-
-## Network Topology
-
